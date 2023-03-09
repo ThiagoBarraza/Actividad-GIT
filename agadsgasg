@@ -1,0 +1,49 @@
+[33mcommit cc23a9f2850ba7f842d073f8a1cb2236f07f83d2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c4d3220 bb8c0eb
+Author: ZYLBERSZTEIN GUIDO <46919295@ort>
+Date:   Thu Mar 9 11:41:00 2023 -0300
+
+    barraza duro
+
+[33mcommit c4d3220385e600bb9b40043837a1585aa9f60b3f[m
+Author: ZYLBERSZTEIN GUIDO <46919295@ort>
+Date:   Thu Mar 9 11:33:43 2023 -0300
+
+    punto 3
+
+[33mcommit bb8c0ebcbc56d63ec269362a3582d2de36bd0a3b[m
+Author: Thiago <46645966@est.ort.edu.ar>
+Date:   Thu Mar 9 11:33:15 2023 -0300
+
+    Haciendo el punto 3
+
+[33mcommit 949bbb1f3c06904dcfd99ac954f3d3fe2dd579fe[m
+Merge: 4e3505f a065497
+Author: Thiago <46645966@est.ort.edu.ar>
+Date:   Thu Mar 9 11:30:15 2023 -0300
+
+    Merge branch 'main' of https://github.com/ThiagoBarraza/Actividad-GIT
+
+[33mcommit 4e3505f3e2b7b4cebd232d3e6c91887a30edd0e1[m
+Author: Thiago <46645966@est.ort.edu.ar>
+Date:   Thu Mar 9 11:30:08 2023 -0300
+
+    Hice mis cambios
+
+[33mcommit a065497864248cdb040a98d75d27d1a3607a44e5[m
+Author: ZYLBERSZTEIN GUIDO <46919295@ort>
+Date:   Thu Mar 9 11:25:16 2023 -0300
+
+    Hice mi parte del punto 2
+
+[33mcommit 9dcce094c19c5e6257cd1dff787cf95e37110658[m
+Author: Thiago <101569153+ThiagoBarraza@users.noreply.github.com>
+Date:   Tue Mar 7 11:58:04 2023 -0300
+
+    Cargado el archivo
+
+[33mcommit eb6e60d53765407034b017922e683c6735fb0683[m
+Author: Thiago <101569153+ThiagoBarraza@users.noreply.github.com>
+Date:   Tue Mar 7 11:56:17 2023 -0300
+
+    Initial commit
